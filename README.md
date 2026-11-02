@@ -3,6 +3,6 @@
 # Goal
 
 # Methodology and Tool used
-# Dashboard Overview
+# Dashboards Overview
 # Key Insights
 # How to use
