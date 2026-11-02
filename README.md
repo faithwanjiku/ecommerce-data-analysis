@@ -1,3 +1,8 @@
 ## Olist E-commerce Data Analysis
 
-## Summary
+# Goal
+
+# Methodology and Tool used
+# Dashboard Overview
+# Key Insights
+# How to use
